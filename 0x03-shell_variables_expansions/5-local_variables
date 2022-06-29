@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $BASHOPTS
+echo $BASH \n echo $BASHOPT
