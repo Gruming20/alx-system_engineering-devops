@@ -6,4 +6,4 @@ __________________________________
 
 TASKS
 0. World wide web
-1. HAproxy SSL termination
+1. HAproxy SSL termination and 1 advanced task
